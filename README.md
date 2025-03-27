@@ -1,3 +1,9 @@
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm Adit Chheda</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 

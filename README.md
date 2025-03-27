@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://aditchheda.github.io/adit_portfolio/](https://aditchheda.github.io/adit_portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://aditchheda.github.io/adit_portfolio/)
 
 - 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **aditbharatchheda@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/adit-chheda/overlay/1739210638937/single-media-viewer/?profileId=ACoAADDxzKwBrd-WZedrreCOr0ITjLQkbgJdBcU](https://www.linkedin.com/in/adit-chheda/overlay/1739210638937/single-media-viewer/?profileId=ACoAADDxzKwBrd-WZedrreCOr0ITjLQkbgJdBcU)
+- 📄 Know about my experiences [Resume](https://www.linkedin.com/in/adit-chheda/overlay/1739210638937/single-media-viewer/?profileId=ACoAADDxzKwBrd-WZedrreCOr0ITjLQkbgJdBcU)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +24,7 @@
 <a href="https://www.codechef.com/users/adit_chheda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adit_chheda" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Data Science</h3>
+<h3 align="left">Data Science:</h3>
 <p align="left"> 
   <!-- Data Science -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -44,7 +44,7 @@
   </a> 
 </p>
 
-<h3 align="left">Web Development</h3>
+<h3 align="left">Web Development:</h3>
 <p align="left"> 
   <!-- Web Development -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -67,7 +67,7 @@
   </a> 
 </p>
 
-<h3 align="left">Database</h3>
+<h3 align="left">Database:</h3>
 <p align="left"> 
   <!-- Database -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -90,7 +90,7 @@
   </a> 
 </p>
 
-<h3 align="left">Tools</h3>
+<h3 align="left">Tools:</h3>
 <p align="left"> 
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 

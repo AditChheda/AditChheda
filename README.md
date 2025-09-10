@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aditbharatchheda@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://www.linkedin.com/in/adit-chheda/overlay/1739210638937/single-media-viewer/?profileId=ACoAADDxzKwBrd-WZedrreCOr0ITjLQkbgJdBcU](https://www.linkedin.com/in/adit-chheda/overlay/1757469861917/single-media-viewer/?profileId=ACoAADDxzKwBrd-WZedrreCOr0ITjLQkbgJdBcU))
+- 📄 Know about my experiences [Resume]([(https://www.linkedin.com/in/adit-chheda/overlay/1757469861917/single-media-viewer/?profileId=ACoAADDxzKwBrd-WZedrreCOr0ITjLQkbgJdBcU)])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adit Chheda</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditchheda&label=Profile%20views&color=0e75b6&style=flat" alt="aditchheda" /> </p>
 
-- 🔭 I’m currently working as **Data Analyst at tapyoca**
+- 🔭 I’m currently working as **Data Scientist at tapyoca**
 
 - 🌱 I’m currently learning **Data Science**
 

@@ -5,15 +5,9 @@
 
 - 🔭 I’m currently working as **Data Scientist at tapyoca**
 
-- 🌱 I’m currently learning **Data Science**
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://aditchheda.github.io/adit_portfolio/)
 
-- 💬 Ask me about **Data Analytics**
-
-- 📫 How to reach me **aditbharatchheda@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://www.linkedin.com/in/adit-chheda/overlay/1757469861917/single-media-viewer/?profileId=ACoAADDxzKwBrd-WZedrreCOr0ITjLQkbgJdBcU)
+- 📫 Reach me at **aditbharatchheda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditchheda&label=Profile%20views&color=0e75b6&style=flat" alt="aditchheda" /> </p>
 
-- 🔭 I’m currently working as **Data Scientist at tapyoca**
+🔭 I’m currently working as **Data Scientist at [tapyoca](https://tapyoca.com/)**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://aditchheda.github.io/adit_portfolio/)
+👨‍💻 [Portfolio](https://aditchheda.github.io/adit_portfolio/)
 
-- 📫 Reach me at **aditbharatchheda@gmail.com**
+📫 Reach me at **aditbharatchheda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

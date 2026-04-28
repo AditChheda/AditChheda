@@ -9,10 +9,8 @@
 📫 Reach me at **aditbharatchheda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-  <!-- <a href="https://linkedin.com/in/adit-chheda" target="_blank"> -->
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adit-chheda" height="30" width="40" />(https://linkedin.com/in/adit-chheda)
-  <!-- </a> -->
+<p>
+  <a href="https://linkedin.com/in/adit-chheda" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adit-chheda" height="30" width="40" /></a>
   <a href="https://kaggle.com/aditbharatchheda" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aditbharatchheda" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/aditbharatchheda" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditbharatchheda" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/15264212" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15264212" height="30" width="40" /></a>
